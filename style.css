@@ -172,7 +172,7 @@
 /* ------------------------# Banner Section Start # -------------------- */
 
 .banner-section{
-    background-image: url("/images/gradient3.png"),url("./images/watch.png");
+    background-image: url("./images/gradient3.png"),url("./images/watch.png");
     background-position:center;
     background-size: cover;
     height: 300px;
